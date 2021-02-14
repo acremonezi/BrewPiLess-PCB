@@ -1,2 +1,2 @@
-# BrewPiLess_Circuit
+# BrewPiLess Circuit
 BrewPiLess Electronic Circuit with UPS System
